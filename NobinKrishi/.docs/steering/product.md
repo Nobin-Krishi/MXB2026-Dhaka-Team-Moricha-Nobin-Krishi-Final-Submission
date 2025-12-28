@@ -26,5 +26,5 @@ NobinKrishi is a comprehensive smart farming platform designed for Bangladesh th
 ### Business Model
 - Free for farmers to join and list crops
 - 8% commission on successful marketplace transactions
-- Premium analytics for large farms (₹500/month)
+- Premium analytics for large farms 
 - Enterprise solutions for businesses and cooperatives

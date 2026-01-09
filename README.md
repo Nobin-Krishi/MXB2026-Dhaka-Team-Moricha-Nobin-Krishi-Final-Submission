@@ -265,511 +265,484 @@ Your farming command center - see everything about your farm in one place.
 ---
 
 ## 🛠️ Technology Stack🛠️ Complete Technology & Data Sources List
-DEVELOPMENT TOOLS & IDEs
-Code Development
+💻 Code Development
+IDEs & Editors
 
-Cursor AI - AI-powered code editor
-Loveable AI - Frontend development platform
-VS Code - Primary code editor
+Cursor AI – AI-powered code editor
+
+Loveable AI – Frontend development platform
+
+VS Code – Primary code editor
+
 Kiro
+
 Google Antigravity
 
-Design & Prototyping
+🎨 Design & Prototyping
 
-Figma - UI/UX design
-Canva - Graphics & marketing materials
-Adobe XD - Prototyping
-Excalidraw - Diagrams & flowcharts
+Figma – UI/UX design
 
-Project Management
+Canva – Graphics & marketing materials
 
-Linear - Issue tracking
-Notion - Documentation
-Slack - Team communication
+Adobe XD – Prototyping
 
+Excalidraw – Diagrams & flowcharts
 
-AI & MACHINE LEARNING
+📋 Project Management & Collaboration
+
+Linear – Issue tracking
+
+Notion – Documentation
+
+Slack – Team communication
+
+🤖 AI & Machine Learning
 AI Models
 
-Dhenu Llama 3 8B - Bangla NLP (Open Source, Meta)
-Dhenu-Vision LoRA 0.1 - Crop disease detection-Gemini Vision (Open Source)
-GPT-4 API - Advanced reasoning (OpenAI)
-Claude API - Conversation understanding (Anthropic)
-Gemini 2.5 - Multi-modal AI (Google)
-Whisper - Speech recognition (OpenAI)
+Dhenu Llama 3 8B – Bangla NLP (Open Source, Meta)
 
-ML Frameworks
+Dhenu-Vision LoRA 0.1 – Crop disease detection (Gemini Vision, Open Source)
 
-TensorFlow - Deep learning framework
-PyTorch - Neural network training
-Keras - High-level neural networks API
-Scikit-learn - Traditional ML algorithms
-XGBoost - Gradient boosting
-LightGBM - Fast gradient boosting
+GPT-4 API – Advanced reasoning (OpenAI)
 
-ML Tools
+Claude API – Conversation understanding (Anthropic)
 
-Hugging Face - Model hub & transformers
-LangChain - LLM application framework
-AutoML - Automated machine learning
-Weights & Biases - Experiment tracking
-MLflow - ML lifecycle management
-Ray - Distributed computing
+Gemini 2.5 – Multimodal AI (Google)
 
+Whisper – Speech recognition (OpenAI)
 
-GEOSPATIAL & SATELLITE DATA
+🧠 ML Frameworks
+
+TensorFlow – Deep learning framework
+
+PyTorch – Neural network training
+
+Keras – High-level neural networks API
+
+Scikit-learn – Traditional ML algorithms
+
+XGBoost – Gradient boosting
+
+LightGBM – Fast gradient boosting
+
+🛠️ ML Tools
+
+Hugging Face – Model hub & transformers
+
+LangChain – LLM application framework
+
+AutoML – Automated machine learning
+
+Weights & Biases – Experiment tracking
+
+MLflow – ML lifecycle management
+
+Ray – Distributed computing
+
+🛰️ Geospatial & Satellite Data
 Satellite Data Sources
 
-Sentinel-2 - European Space Agency (10m resolution, free)
-Landsat 8/9 - NASA/USGS (30m resolution, free)
-MODIS - NASA (250m-1km resolution)
-Planet Labs - High-resolution commercial imagery
+Sentinel-2 – ESA (10m resolution, free)
 
-Geospatial Platforms
+Landsat 8/9 – NASA/USGS (30m resolution, free)
 
-Google Earth Engine - Cloud geospatial analysis
-Sentinel Hub - Satellite data API
-NASA SERVIR - Earth observation services
-ESA Copernicus - Earth monitoring program
+MODIS – NASA (250m–1km resolution)
 
-GIS Tools
+Planet Labs – High-resolution commercial imagery
 
-QGIS - Open-source GIS software
-ArcGIS - Commercial GIS platform
-Mapbox - Interactive maps
-Leaflet.js - JavaScript mapping library
-PostGIS - Spatial database extension
+🌍 Geospatial Platforms
 
+Google Earth Engine – Cloud geospatial analysis
 
-WEATHER & CLIMATE DATA
+Sentinel Hub – Satellite data API
+
+NASA SERVIR – Earth observation services
+
+ESA Copernicus – Earth monitoring program
+
+🗺️ GIS Tools
+
+QGIS – Open-source GIS
+
+ArcGIS – Commercial GIS
+
+Mapbox – Interactive maps
+
+Leaflet.js – JavaScript mapping
+
+PostGIS – Spatial database extension
+
+🌦️ Weather & Climate Data
 Weather APIs
 
-OpenWeatherMap - Real-time & forecast data
-Weather Underground - Hyperlocal weather
-AccuWeather API - Long-range forecasts
-Dark Sky API - Minute-by-minute precipitation
-Visual Crossing - Historical weather data
+OpenWeatherMap – Real-time & forecast data
 
-Government Sources
+Weather Underground – Hyperlocal weather
 
-Bangladesh Meteorological Department (BMD) - National weather
-NASA POWER - Agricultural weather data
-NOAA - Global climate data
-World Weather Online - Historical weather
+AccuWeather API – Long-range forecasts
 
+Dark Sky API – Minute-by-minute precipitation
 
-AGRICULTURAL DATA
+Visual Crossing – Historical weather data
+
+Government & Global Sources
+
+Bangladesh Meteorological Department (BMD)
+
+NASA POWER – Agricultural weather data
+
+NOAA – Global climate data
+
+World Weather Online – Historical weather
+
+🌾 Agricultural Data
 Research Institutions
 
-Bangladesh Agricultural Research Council (BARC) - Crop data, soil maps
-Bangladesh Rice Research Institute (BRRI) - Rice varieties, best practices
-Bangladesh Agricultural Research Institute (BARI) - Crop research data
-International Rice Research Institute (IRRI) - Global rice data
+BARC – Crop data, soil maps
+
+BRRI – Rice varieties & best practices
+
+BARI – Crop research data
+
+IRRI – Global rice research
 
 Global Agricultural Data
 
-FAO (Food & Agriculture Organization) - Global crop statistics
-USDA (US Department of Agriculture) - Agricultural data
-CGIAR - Agricultural research data
-World Bank Open Data - Agricultural economics
-Our World in Data - Agricultural trends
+FAO – Global crop statistics
+
+USDA – Agricultural data
+
+CGIAR – Agricultural research
+
+World Bank Open Data – Agricultural economics
+
+Our World in Data – Agricultural trends
 
 Crop Disease Databases
 
-PlantVillage Dataset - 54,000+ crop disease images (Kaggle)
-PlantDoc Dataset - 2,500+ plant disease images
-Crop Disease Image Database - Research databases
-iNaturalist - Crowdsourced plant observations
+PlantVillage Dataset – 54,000+ images
 
+PlantDoc Dataset – 2,500+ images
 
-SOIL & LAND DATA
+Crop Disease Image Database
+
+iNaturalist – Crowdsourced observations
+
+🌱 Soil & Land Data
 Soil Databases
 
-SoilGrids - Global soil information (ISRIC)
-FAO Soil Portal - Global soil data
-HWSD (Harmonized World Soil Database) - Soil properties
-BARC Soil Resource Database - Bangladesh-specific
+SoilGrids (ISRIC)
+
+FAO Soil Portal
+
+HWSD – Harmonized World Soil Database
+
+BARC Soil Resource Database
 
 Land Use Data
 
-Global Land Cover - ESA CCI Land Cover
-MODIS Land Cover - NASA land classification
-OpenStreetMap - Crowdsourced map data
+ESA CCI Land Cover
 
+MODIS Land Cover
 
-MARKET & PRICE DATA
+OpenStreetMap
+
+💰 Market & Price Data
 Price Sources
 
-Department of Agricultural Marketing (DAM) - Bangladesh market prices
-Trading Corporation of Bangladesh (TCB) - Daily commodity prices
-DAE (Department of Agricultural Extension) - Local market data
-FAO GIEWS - Global food prices
-World Bank Commodity Prices - International markets
+DAM – Bangladesh market prices
 
-E-commerce Data
+TCB – Daily commodity prices
 
-Internal NobinKrishi Data - Real-time transaction prices
-bKash Transaction Data - Payment patterns
-Local Market Surveys - Field data collection
+DAE – Local market data
 
+FAO GIEWS – Global food prices
 
-FRONTEND TECHNOLOGIES
-Web Framework
+World Bank Commodity Prices
 
-React - JavaScript library
-Next.js - React framework with SSR
-TypeScript - Type-safe JavaScript
-Tailwind CSS - Utility-first CSS
-Framer Motion - Animation library
-shadcn/ui - Component library
+E-commerce & Payments Data
 
-Mobile Development
+Internal NobinKrishi Data
 
-React Native - Cross-platform mobile
-Expo - React Native toolchain
-Native Base - Mobile UI components
+bKash Transaction Data
+
+Local Market Surveys
+
+🌐 Frontend Technologies
+Web
+
+React, Next.js, TypeScript
+
+Tailwind CSS, Framer Motion
+
+shadcn/ui
+
+Mobile
+
+React Native
+
+Expo
+
+Native Base
 
 Build Tools
 
-Vite - Fast build tool
-Webpack - Module bundler
-Babel - JavaScript compiler
-ESLint - Code quality
-Prettier - Code formatting
+Vite, Webpack, Babel
 
+ESLint, Prettier
 
-BACKEND TECHNOLOGIES
-Runtime & Framework
+🧩 Backend Technologies
+Runtime & Frameworks
 
-Node.js - JavaScript runtime
-Express.js - Web framework
-Fastify - Fast web framework
-NestJS - Enterprise Node.js framework
+Node.js, Express.js, Fastify, NestJS
 
-API Technologies
+APIs
 
-REST API - Standard API architecture
-GraphQL - Query language (Apollo Server)
-WebSocket - Real-time communication
-gRPC - High-performance RPC
+REST, GraphQL (Apollo)
+
+WebSocket, gRPC
 
 Authentication
 
-JWT (JSON Web Tokens) - Token authentication
-OAuth 2.0 - Authorization framework
-Supabase Auth - User authentication
+JWT, OAuth 2.0, Supabase Auth
 
+🗄️ Databases & Storage
+Relational
 
+PostgreSQL, TimescaleDB, MySQL
 
-DATABASES & STORAGE
-Relational Databases
+NoSQL
 
-PostgreSQL - Primary database
-TimescaleDB - Time-series extension
-MySQL - Alternative relational DB
+MongoDB, Redis, Elasticsearch
 
-NoSQL Databases
+Storage
 
-MongoDB - Document database
-Redis - In-memory cache
-Elasticsearch - Search engine
+AWS S3, Google Cloud Storage
 
-Cloud Storage
-
-AWS S3 - Object storage
-Google Cloud Storage - File storage
-Supabase Storage - Open-source storage
-Cloudinary - Image/video management
+Supabase Storage, Cloudinary
 
 Vector Databases
 
-Pinecone - Vector similarity search
-Weaviate - AI-native database
-Qdrant - Vector search engine
+Pinecone, Weaviate, Qdrant
 
+☁️ Cloud & Infrastructure
+Providers
 
-CLOUD & INFRASTRUCTURE
-Cloud Providers
+AWS, GCP, Azure, DigitalOcean
 
-AWS (Amazon Web Services) - Primary hosting
-Google Cloud Platform (GCP) - Secondary/backup
-Microsoft Azure - Enterprise services
-DigitalOcean - Developer-friendly cloud
+AWS Services
 
-AWS Services Used
+EC2, Lambda, RDS, S3
 
-EC2 - Virtual servers
-Lambda - Serverless functions
-RDS - Managed databases
-S3 - Object storage
-CloudFront - CDN
-API Gateway - API management
-SageMaker - ML model training/deployment
-Elastic Beanstalk - App deployment
-CloudWatch - Monitoring & logs
+CloudFront, API Gateway
 
-DevOps Tools
+SageMaker, Elastic Beanstalk
 
-Docker - Containerization
-Kubernetes - Container orchestration
-GitHub Actions - CI/CD pipelines
-Jenkins - Automation server
-Terraform - Infrastructure as code
-Ansible - Configuration management
+CloudWatch
 
+DevOps
 
-EDGE COMPUTING & IoT
-Edge Devices
+Docker, Kubernetes
 
-Raspberry Pi - Low-cost field sensors
-Arduino - Microcontroller sensors
-ESP32 - IoT connectivity
+GitHub Actions, Jenkins
 
-IoT Platforms
+Terraform, Ansible
 
-AWS IoT Core - Device management
-Google Cloud IoT - IoT platform
-ThingSpeak - IoT analytics
+📡 Edge Computing & IoT
+Devices
 
-Sensors (Data Sources)
+Raspberry Pi, Arduino, ESP32
 
-Soil Moisture Sensors - Water content
-pH Sensors - Soil acidity
-Temperature/Humidity Sensors - Environmental conditions
-NPK Sensors - Soil nutrients
+Platforms
 
+AWS IoT Core, Google Cloud IoT, ThingSpeak
 
-PAYMENT & FINANCIAL
-Payment Gateways
+Sensors
 
-bKash - Mobile money (Bangladesh)
-Nagad - Mobile financial services
-Rocket - Mobile wallet
-Stripe - International payments
-Razorpay - Payment gateway 
-PayPal - Global payments
+Soil Moisture, pH
+
+Temperature & Humidity
+
+NPK Sensors
+
+💳 Payment & Financial Systems
+Gateways
+
+bKash, Nagad, Rocket
+
+Stripe, Razorpay, PayPal
 
 Banking APIs
 
-Bangladesh Bank API - Central bank data
-Commercial Bank APIs - Transaction processing
+Bangladesh Bank API
 
+Commercial Bank APIs
 
-ANALYTICS & MONITORING
-Analytics Platforms
+📊 Analytics & Monitoring
+Analytics
 
-Google Analytics 4 - Web analytics
-Mixpanel - Product analytics
-Amplitude - User behavior analytics
-Segment - Customer data platform
-Hotjar - Heatmaps & recordings
+Google Analytics 4, Mixpanel, Amplitude
 
-Monitoring Tools
+Segment, Hotjar
 
-Sentry - Error tracking
-New Relic - Application performance
-Datadog - Infrastructure monitoring
-Grafana - Metrics visualization
-Prometheus - Monitoring system
+Monitoring
+
+Sentry, New Relic, Datadog
+
+Grafana, Prometheus
 
 A/B Testing
 
-Optimizely - Experimentation platform
-Google Optimize - A/B testing
-LaunchDarkly - Feature flags
+Optimizely, Google Optimize, LaunchDarkly
 
+💬 Communication & Messaging
+SMS & Voice
 
-COMMUNICATION & MESSAGING
-SMS/Voice Services
-
-Twilio - SMS/Voice API
-Nexmo (Vonage) - Communications API
-Plivo - SMS platform
+Twilio, Nexmo (Vonage), Plivo
 
 Push Notifications
 
-Firebase Cloud Messaging (FCM) - Push notifications
-OneSignal - Multi-platform notifications
-Amazon SNS - Notification service
+FCM, OneSignal, Amazon SNS
 
-Email Services
+Email
 
-SendGrid - Transactional email
-Mailgun - Email API
-Amazon SES - Email service
+SendGrid, Mailgun, Amazon SES
 
-
-NATURAL LANGUAGE PROCESSING
+🧠 NLP & Speech
 NLP Libraries
 
-spaCy - Industrial NLP
-NLTK - Natural language toolkit
-Gensim - Topic modeling
-Stanza - Multilingual NLP
+spaCy, NLTK, Gensim, Stanza
 
-Translation Services
+Translation
 
-Google Translate API - Machine translation
-DeepL API - High-quality translation
-Microsoft Translator - Translation service
+Google Translate API
 
-Speech-to-Text
+DeepL API
 
-Whisper (OpenAI) - Multilingual ASR
-Google Cloud Speech-to-Text - Speech recognition
-Amazon Transcribe - Audio transcription
+Microsoft Translator
+
+Speech
+
+Whisper, Google STT, Amazon Transcribe
 
 Text-to-Speech
 
-Google Cloud Text-to-Speech - Natural voices
-Amazon Polly - TTS service
-ElevenLabs - AI voice generation
+Google Cloud TTS, Amazon Polly, ElevenLabs
 
-
-COMPUTER VISION
+👁️ Computer Vision
 Vision APIs
 
-AWS Rekognition - Image/video analysis
-Google Cloud Vision - Image understanding
-Azure Computer Vision - Visual content analysis
+AWS Rekognition
+
+Google Cloud Vision
+
+Azure Computer Vision
 
 CV Libraries
 
-OpenCV - Computer vision library
-YOLO (You Only Look Once) - Object detection
-Detectron2 - Facebook AI detection framework
-MediaPipe - ML solutions
+OpenCV, YOLO, Detectron2, MediaPipe
 
+🔄 Data Processing & ETL
+Processing
 
-DATA PROCESSING & ETL
-Data Processing
+Apache Spark, Kafka, Airflow
 
-Apache Spark - Large-scale data processing
-Apache Kafka - Event streaming
-Apache Airflow - Workflow orchestration
-Pandas - Data manipulation (Python)
-NumPy - Numerical computing
+Pandas, NumPy
 
-Data Visualization
+Visualization
 
-Recharts - React charting library
-D3.js - Data visualization
-Plotly - Interactive charts
-Chart.js - JavaScript charts
-Tableau - Business intelligence
+Recharts, D3.js, Plotly
 
+Chart.js, Tableau
 
-SECURITY & COMPLIANCE
-Security Tools
+🔐 Security & Compliance
+Security
 
-SSL/TLS Certificates - Encryption (Let's Encrypt)
-AWS WAF - Web application firewall
-Cloudflare - DDoS protection, CDN
+SSL/TLS (Let’s Encrypt)
 
+AWS WAF, Cloudflare
 
-Compliance Standards
+Compliance
 
-ISO 27001 - Information security
-SOC 2 - Security compliance
-GDPR - Data protection (EU)
-PCI DSS - Payment card security
-Bangladesh Data Protection Act - Local compliance
+ISO 27001, SOC 2, GDPR
 
+PCI DSS, Bangladesh Data Protection Act
 
-TESTING & QUALITY ASSURANCE
-Testing Frameworks
+🧪 Testing & QA
 
-Jest - JavaScript testing
-Cypress - End-to-end testing
-Selenium - Browser automation
-Postman - API testing
-k6 - Load testing
+Jest, Cypress, Selenium
 
+Postman, k6
 
-COLLABORATION & VERSION CONTROL
+🤝 Collaboration & Version Control
 Version Control
 
-Git - Version control system
-GitHub - Code hosting, CI/CD
-GitLab - DevOps platform
+Git, GitHub, GitLab
 
 Documentation
 
-Swagger/OpenAPI - API documentation
-Docusaurus - Documentation sites
-Storybook - UI component documentation
+Swagger/OpenAPI
 
+Docusaurus
 
-BLOCKCHAIN (Future/Pilot)
-Blockchain Platforms
+Storybook
 
-Ethereum - Smart contracts (food traceability pilot)
-Polygon - Layer 2 scaling
-Hyperledger Fabric - Enterprise blockchain
+⛓️ Blockchain (Future / Pilot)
 
+Ethereum – Smart contracts
 
-RESEARCH & ACADEMIC SOURCES
-Academic Databases
+Polygon – Layer-2 scaling
 
-Google Scholar - Research papers
-ResearchGate - Academic networking
-arXiv - Preprint repository
-IEEE Xplore - Engineering papers
-ScienceDirect - Scientific database
+Hyperledger Fabric – Enterprise blockchain
+
+📚 Research & Academic Sources
+Databases
+
+Google Scholar, ResearchGate
+
+arXiv, IEEE Xplore, ScienceDirect
 
 Datasets
 
-Kaggle Datasets - ML datasets
-UCI Machine Learning Repository - Data for ML
-Hugging Face Datasets - NLP datasets
-ImageNet - Image classification dataset
+Kaggle, UCI ML Repo
 
+Hugging Face Datasets, ImageNet
 
-REGULATORY & GOVERNMENT DATA
-Bangladesh Government
+🏛️ Regulatory & Government Data
+Bangladesh
 
-Bangladesh Bureau of Statistics (BBS) - National statistics
-Ministry of Agriculture - Agricultural policies
-Department of Agricultural Extension (DAE) - Extension services
-Bangladesh Bank - Financial regulations
+BBS, Ministry of Agriculture
 
-International Organizations
+DAE, Bangladesh Bank
 
-United Nations FAO - Global agriculture
-World Bank - Development data
-UNDP - Development programs
-CGIAR - Agricultural research
+International
 
+UN FAO, World Bank, UNDP, CGIAR
 
-OPEN SOURCE COMMUNITIES
-Code Repositories
+🌍 Open Source Communities
+Repositories
 
-GitHub - Open source hosting
-npm - JavaScript package registry
-PyPI - Python package index
-Docker Hub - Container registry
+GitHub, npm, PyPI, Docker Hub
 
 Communities
 
-Stack Overflow - Developer Q&A
-Reddit (r/MachineLearning, r/Agriculture) - Community discussions
-Dev.to - Developer community
-Hacker News - Tech news
+Stack Overflow
 
+Reddit (ML & Agriculture)
 
-LEGAL & BUSINESS
-Business Tools
+Dev.to, Hacker News
 
-Stripe Atlas - Company formation
-QuickBooks - Accounting
-Zoho - Business suite
-DocuSign - Electronic signatures
+⚖️ Legal & Business Tools
+
+Stripe Atlas – Company formation
+
+QuickBooks – Accounting
+
+Zoho – Business suite
+
+DocuSign – Electronic signatures
 
 Legal Databases
-
-Bangladesh Code - Laws & regulations
-LexisNexis - Legal research
-Westlaw - Legal database
 ---
 
 ## 👥 Who Benefits? (And How?)

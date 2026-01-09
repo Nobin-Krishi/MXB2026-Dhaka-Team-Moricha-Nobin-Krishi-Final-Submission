@@ -264,48 +264,512 @@ Your farming command center - see everything about your farm in one place.
 
 ---
 
-## 🛠️ Technology Stack (What Tools We Use)
+## 🛠️ Technology Stack🛠️ Complete Technology & Data Sources List
+DEVELOPMENT TOOLS & IDEs
+Code Development
 
-### 🖥️ Frontend (What You See & Touch)
-- **React** - Builds the app interface (buttons, screens)
-- **Next.js** - Makes the app load super fast
-- **Tailwind CSS** - Makes everything look beautiful
-- **Framer Motion** - Smooth animations
+Cursor AI - AI-powered code editor
+Loveable AI - Frontend development platform
+VS Code - Primary code editor
+Kiro
+Google Antigravity
 
-### 🧠 Artificial Intelligence (The Smart Part)
-- **Dhenu Llama 3** - AI brain for understanding Bangla farming questions
-- **Dhenu-vision lora** - AI eyes for seeing crop diseases in photos
-- **TensorFlow & PyTorch** - Tools that teach AI to recognize patterns
-- **LangChain** - Helps AI have conversations
-- **RAG (Retrieval Augmented Generation)** - Makes AI give accurate answers using farming knowledge database
+Design & Prototyping
 
-### 🗺️ Geospatial & Satellite (Map & Land Analysis)
-- **Google Earth Engine** - Analyzes satellite images of farms
-- **Sentinel-2 Satellite** - Free satellite data from space
-- **OpenWeatherMap** - Weather data
-- **QGIS** - Map processing
+Figma - UI/UX design
+Canva - Graphics & marketing materials
+Adobe XD - Prototyping
+Excalidraw - Diagrams & flowcharts
 
-### 📊 Data & Analytics
-- **Supabase** - Stores all data securely
-- **PostgreSQL** - Database (like a digital filing cabinet)
-- **Recharts** - Creates beautiful graphs and charts
+Project Management
 
-### 🔧 Backend (Behind-the-Scenes Engine)
-- **Node.js** - Server that handles requests
-- **Express** - API framework
-- **Docker** - Packages everything neatly
-- **AWS/GCP/Azure** - Cloud servers (like renting computer space)
+Linear - Issue tracking
+Notion - Documentation
+Slack - Team communication
 
-### 📱 Mobile & Edge
-- **React Native** - Mobile app for Android
-- **Raspberry Pi** - Low-cost sensors for farms
-- **Edge Computing** - Process data on your phone (works offline)
 
-### 🔐 Security & Payments
-- **SSL Encryption** - Keeps your data safe
-- **bKash/Nagad API** - Mobile money integration
-- **Blockchain** - Secure food traceability
+AI & MACHINE LEARNING
+AI Models
 
+Dhenu Llama 3 8B - Bangla NLP (Open Source, Meta)
+Dhenu-Vision LoRA 0.1 - Crop disease detection-Gemini Vision (Open Source)
+GPT-4 API - Advanced reasoning (OpenAI)
+Claude API - Conversation understanding (Anthropic)
+Gemini 2.5 - Multi-modal AI (Google)
+Whisper - Speech recognition (OpenAI)
+
+ML Frameworks
+
+TensorFlow - Deep learning framework
+PyTorch - Neural network training
+Keras - High-level neural networks API
+Scikit-learn - Traditional ML algorithms
+XGBoost - Gradient boosting
+LightGBM - Fast gradient boosting
+
+ML Tools
+
+Hugging Face - Model hub & transformers
+LangChain - LLM application framework
+AutoML - Automated machine learning
+Weights & Biases - Experiment tracking
+MLflow - ML lifecycle management
+Ray - Distributed computing
+
+
+GEOSPATIAL & SATELLITE DATA
+Satellite Data Sources
+
+Sentinel-2 - European Space Agency (10m resolution, free)
+Landsat 8/9 - NASA/USGS (30m resolution, free)
+MODIS - NASA (250m-1km resolution)
+Planet Labs - High-resolution commercial imagery
+
+Geospatial Platforms
+
+Google Earth Engine - Cloud geospatial analysis
+Sentinel Hub - Satellite data API
+NASA SERVIR - Earth observation services
+ESA Copernicus - Earth monitoring program
+
+GIS Tools
+
+QGIS - Open-source GIS software
+ArcGIS - Commercial GIS platform
+Mapbox - Interactive maps
+Leaflet.js - JavaScript mapping library
+PostGIS - Spatial database extension
+
+
+WEATHER & CLIMATE DATA
+Weather APIs
+
+OpenWeatherMap - Real-time & forecast data
+Weather Underground - Hyperlocal weather
+AccuWeather API - Long-range forecasts
+Dark Sky API - Minute-by-minute precipitation
+Visual Crossing - Historical weather data
+
+Government Sources
+
+Bangladesh Meteorological Department (BMD) - National weather
+NASA POWER - Agricultural weather data
+NOAA - Global climate data
+World Weather Online - Historical weather
+
+
+AGRICULTURAL DATA
+Research Institutions
+
+Bangladesh Agricultural Research Council (BARC) - Crop data, soil maps
+Bangladesh Rice Research Institute (BRRI) - Rice varieties, best practices
+Bangladesh Agricultural Research Institute (BARI) - Crop research data
+International Rice Research Institute (IRRI) - Global rice data
+
+Global Agricultural Data
+
+FAO (Food & Agriculture Organization) - Global crop statistics
+USDA (US Department of Agriculture) - Agricultural data
+CGIAR - Agricultural research data
+World Bank Open Data - Agricultural economics
+Our World in Data - Agricultural trends
+
+Crop Disease Databases
+
+PlantVillage Dataset - 54,000+ crop disease images (Kaggle)
+PlantDoc Dataset - 2,500+ plant disease images
+Crop Disease Image Database - Research databases
+iNaturalist - Crowdsourced plant observations
+
+
+SOIL & LAND DATA
+Soil Databases
+
+SoilGrids - Global soil information (ISRIC)
+FAO Soil Portal - Global soil data
+HWSD (Harmonized World Soil Database) - Soil properties
+BARC Soil Resource Database - Bangladesh-specific
+
+Land Use Data
+
+Global Land Cover - ESA CCI Land Cover
+MODIS Land Cover - NASA land classification
+OpenStreetMap - Crowdsourced map data
+
+
+MARKET & PRICE DATA
+Price Sources
+
+Department of Agricultural Marketing (DAM) - Bangladesh market prices
+Trading Corporation of Bangladesh (TCB) - Daily commodity prices
+DAE (Department of Agricultural Extension) - Local market data
+FAO GIEWS - Global food prices
+World Bank Commodity Prices - International markets
+
+E-commerce Data
+
+Internal NobinKrishi Data - Real-time transaction prices
+bKash Transaction Data - Payment patterns
+Local Market Surveys - Field data collection
+
+
+FRONTEND TECHNOLOGIES
+Web Framework
+
+React - JavaScript library
+Next.js - React framework with SSR
+TypeScript - Type-safe JavaScript
+Tailwind CSS - Utility-first CSS
+Framer Motion - Animation library
+shadcn/ui - Component library
+
+Mobile Development
+
+React Native - Cross-platform mobile
+Expo - React Native toolchain
+Native Base - Mobile UI components
+
+Build Tools
+
+Vite - Fast build tool
+Webpack - Module bundler
+Babel - JavaScript compiler
+ESLint - Code quality
+Prettier - Code formatting
+
+
+BACKEND TECHNOLOGIES
+Runtime & Framework
+
+Node.js - JavaScript runtime
+Express.js - Web framework
+Fastify - Fast web framework
+NestJS - Enterprise Node.js framework
+
+API Technologies
+
+REST API - Standard API architecture
+GraphQL - Query language (Apollo Server)
+WebSocket - Real-time communication
+gRPC - High-performance RPC
+
+Authentication
+
+JWT (JSON Web Tokens) - Token authentication
+OAuth 2.0 - Authorization framework
+Supabase Auth - User authentication
+
+
+
+DATABASES & STORAGE
+Relational Databases
+
+PostgreSQL - Primary database
+TimescaleDB - Time-series extension
+MySQL - Alternative relational DB
+
+NoSQL Databases
+
+MongoDB - Document database
+Redis - In-memory cache
+Elasticsearch - Search engine
+
+Cloud Storage
+
+AWS S3 - Object storage
+Google Cloud Storage - File storage
+Supabase Storage - Open-source storage
+Cloudinary - Image/video management
+
+Vector Databases
+
+Pinecone - Vector similarity search
+Weaviate - AI-native database
+Qdrant - Vector search engine
+
+
+CLOUD & INFRASTRUCTURE
+Cloud Providers
+
+AWS (Amazon Web Services) - Primary hosting
+Google Cloud Platform (GCP) - Secondary/backup
+Microsoft Azure - Enterprise services
+DigitalOcean - Developer-friendly cloud
+
+AWS Services Used
+
+EC2 - Virtual servers
+Lambda - Serverless functions
+RDS - Managed databases
+S3 - Object storage
+CloudFront - CDN
+API Gateway - API management
+SageMaker - ML model training/deployment
+Elastic Beanstalk - App deployment
+CloudWatch - Monitoring & logs
+
+DevOps Tools
+
+Docker - Containerization
+Kubernetes - Container orchestration
+GitHub Actions - CI/CD pipelines
+Jenkins - Automation server
+Terraform - Infrastructure as code
+Ansible - Configuration management
+
+
+EDGE COMPUTING & IoT
+Edge Devices
+
+Raspberry Pi - Low-cost field sensors
+Arduino - Microcontroller sensors
+ESP32 - IoT connectivity
+
+IoT Platforms
+
+AWS IoT Core - Device management
+Google Cloud IoT - IoT platform
+ThingSpeak - IoT analytics
+
+Sensors (Data Sources)
+
+Soil Moisture Sensors - Water content
+pH Sensors - Soil acidity
+Temperature/Humidity Sensors - Environmental conditions
+NPK Sensors - Soil nutrients
+
+
+PAYMENT & FINANCIAL
+Payment Gateways
+
+bKash - Mobile money (Bangladesh)
+Nagad - Mobile financial services
+Rocket - Mobile wallet
+Stripe - International payments
+Razorpay - Payment gateway 
+PayPal - Global payments
+
+Banking APIs
+
+Bangladesh Bank API - Central bank data
+Commercial Bank APIs - Transaction processing
+
+
+ANALYTICS & MONITORING
+Analytics Platforms
+
+Google Analytics 4 - Web analytics
+Mixpanel - Product analytics
+Amplitude - User behavior analytics
+Segment - Customer data platform
+Hotjar - Heatmaps & recordings
+
+Monitoring Tools
+
+Sentry - Error tracking
+New Relic - Application performance
+Datadog - Infrastructure monitoring
+Grafana - Metrics visualization
+Prometheus - Monitoring system
+
+A/B Testing
+
+Optimizely - Experimentation platform
+Google Optimize - A/B testing
+LaunchDarkly - Feature flags
+
+
+COMMUNICATION & MESSAGING
+SMS/Voice Services
+
+Twilio - SMS/Voice API
+Nexmo (Vonage) - Communications API
+Plivo - SMS platform
+
+Push Notifications
+
+Firebase Cloud Messaging (FCM) - Push notifications
+OneSignal - Multi-platform notifications
+Amazon SNS - Notification service
+
+Email Services
+
+SendGrid - Transactional email
+Mailgun - Email API
+Amazon SES - Email service
+
+
+NATURAL LANGUAGE PROCESSING
+NLP Libraries
+
+spaCy - Industrial NLP
+NLTK - Natural language toolkit
+Gensim - Topic modeling
+Stanza - Multilingual NLP
+
+Translation Services
+
+Google Translate API - Machine translation
+DeepL API - High-quality translation
+Microsoft Translator - Translation service
+
+Speech-to-Text
+
+Whisper (OpenAI) - Multilingual ASR
+Google Cloud Speech-to-Text - Speech recognition
+Amazon Transcribe - Audio transcription
+
+Text-to-Speech
+
+Google Cloud Text-to-Speech - Natural voices
+Amazon Polly - TTS service
+ElevenLabs - AI voice generation
+
+
+COMPUTER VISION
+Vision APIs
+
+AWS Rekognition - Image/video analysis
+Google Cloud Vision - Image understanding
+Azure Computer Vision - Visual content analysis
+
+CV Libraries
+
+OpenCV - Computer vision library
+YOLO (You Only Look Once) - Object detection
+Detectron2 - Facebook AI detection framework
+MediaPipe - ML solutions
+
+
+DATA PROCESSING & ETL
+Data Processing
+
+Apache Spark - Large-scale data processing
+Apache Kafka - Event streaming
+Apache Airflow - Workflow orchestration
+Pandas - Data manipulation (Python)
+NumPy - Numerical computing
+
+Data Visualization
+
+Recharts - React charting library
+D3.js - Data visualization
+Plotly - Interactive charts
+Chart.js - JavaScript charts
+Tableau - Business intelligence
+
+
+SECURITY & COMPLIANCE
+Security Tools
+
+SSL/TLS Certificates - Encryption (Let's Encrypt)
+AWS WAF - Web application firewall
+Cloudflare - DDoS protection, CDN
+
+
+Compliance Standards
+
+ISO 27001 - Information security
+SOC 2 - Security compliance
+GDPR - Data protection (EU)
+PCI DSS - Payment card security
+Bangladesh Data Protection Act - Local compliance
+
+
+TESTING & QUALITY ASSURANCE
+Testing Frameworks
+
+Jest - JavaScript testing
+Cypress - End-to-end testing
+Selenium - Browser automation
+Postman - API testing
+k6 - Load testing
+
+
+COLLABORATION & VERSION CONTROL
+Version Control
+
+Git - Version control system
+GitHub - Code hosting, CI/CD
+GitLab - DevOps platform
+
+Documentation
+
+Swagger/OpenAPI - API documentation
+Docusaurus - Documentation sites
+Storybook - UI component documentation
+
+
+BLOCKCHAIN (Future/Pilot)
+Blockchain Platforms
+
+Ethereum - Smart contracts (food traceability pilot)
+Polygon - Layer 2 scaling
+Hyperledger Fabric - Enterprise blockchain
+
+
+RESEARCH & ACADEMIC SOURCES
+Academic Databases
+
+Google Scholar - Research papers
+ResearchGate - Academic networking
+arXiv - Preprint repository
+IEEE Xplore - Engineering papers
+ScienceDirect - Scientific database
+
+Datasets
+
+Kaggle Datasets - ML datasets
+UCI Machine Learning Repository - Data for ML
+Hugging Face Datasets - NLP datasets
+ImageNet - Image classification dataset
+
+
+REGULATORY & GOVERNMENT DATA
+Bangladesh Government
+
+Bangladesh Bureau of Statistics (BBS) - National statistics
+Ministry of Agriculture - Agricultural policies
+Department of Agricultural Extension (DAE) - Extension services
+Bangladesh Bank - Financial regulations
+
+International Organizations
+
+United Nations FAO - Global agriculture
+World Bank - Development data
+UNDP - Development programs
+CGIAR - Agricultural research
+
+
+OPEN SOURCE COMMUNITIES
+Code Repositories
+
+GitHub - Open source hosting
+npm - JavaScript package registry
+PyPI - Python package index
+Docker Hub - Container registry
+
+Communities
+
+Stack Overflow - Developer Q&A
+Reddit (r/MachineLearning, r/Agriculture) - Community discussions
+Dev.to - Developer community
+Hacker News - Tech news
+
+
+LEGAL & BUSINESS
+Business Tools
+
+Stripe Atlas - Company formation
+QuickBooks - Accounting
+Zoho - Business suite
+DocuSign - Electronic signatures
+
+Legal Databases
+
+Bangladesh Code - Laws & regulations
+LexisNexis - Legal research
+Westlaw - Legal database
 ---
 
 ## 👥 Who Benefits? (And How?)

@@ -3,6 +3,9 @@
 
 ---
 
+By Afia Adiba Hafsa
+
+
 ## 📖 What is NobinKrishi?
 
 **NobinKrishi** means "New Agriculture" in Bangla. It's a smart farming platform that uses Artificial Intelligence (AI) to help farmers grow better crops, earn more money, and connect directly with people who want to buy their produce.
